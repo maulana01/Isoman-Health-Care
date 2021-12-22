@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Isoman Health Care</string>
+
+    <!-- Title -->
+    <string name="first_slide_title">Rekomendasi Makanan Sehat</string>
+    <string name="second_slide_title">Ketenangan Hati adalah Kuncinya</string>
+    <string name="third_slide_title">Konsultasi Tanpa Ketemu dengan Dokter</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Makanan yang kaya protein dan vitamin memiliki peran besar dalam menjaga kesehatan. </string>
+    <string name="second_slide_desc">Membantu dalam ketenangan dan relaksasi fisik, dan meningkatkan kesehatan secara keseluruhan fitur yang ada.</string>
+    <string name="third_slide_desc">Konsultasi kesehatan atau menanyakan sesuatu bisa langsung dengan chatbot.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Mulai</string>
+</resources>
