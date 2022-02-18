@@ -18,6 +18,7 @@ import android.widget.LinearLayout;
 import com.example.isomanhealthcare.SliderAdapter;
 import com.example.isomanhealthcare.R;
 import com.example.isomanhealthcare.MainActivity;
+import com.example.isomanhealthcare.LoginActivity;
 
 import android.os.Bundle;
 import android.widget.TextView;
@@ -37,8 +38,8 @@ public class OnBoarding extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        requestWindowFeature(Window.FEATURE_NO_TITLE);
-        getSupportActionBar().hide();
+//        requestWindowFeature(Window.FEATURE_NO_TITLE);
+//        getSupportActionBar().hide();
         setContentView(R.layout.activity_on_boarding);
 
         // Hooks
@@ -56,7 +57,8 @@ public class OnBoarding extends AppCompatActivity {
     };
 
     public void mulaiBtn(View view) {
-        startActivity(new Intent(this, MainActivity.class));
+        startActivity(new Intent(this, LoginActivity.class));
+        finish();
     }
 
     public void next(View view) {

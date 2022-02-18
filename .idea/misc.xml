@@ -3,15 +3,56 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/akun_selector.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/buttonbordershadow.xml" value="0.2203125" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/buttonbordershadowteal.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/calendar_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/calendar_background_head.xml" value="0.19315068493150686" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/costum_input.xml" value="0.1125" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/costum_inputdisable.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/ic_arrow_drop_right_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/ic_chatbot_nav.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/ic_chatbot_nav2.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/ic_fluent_calendar_rtl_20_regular.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/nav_space.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/panduan_selector.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/round.xml" value="0.2203125" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/roundteal.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/selector.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/shadow.xml" value="0.2203125" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/shadowteal.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/shape.xml" value="0.2203125" />
-        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_main.xml" value="0.3162393162393162" />
-        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_on_boarding.xml" value="0.1" />
-        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/shape_dropdown_arrow.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/simple_list_item_1_isoman.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/drawable/spinner_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_chatbot.xml" value="0.2868217054263566" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_finish_frm_identity.xml" value="0.22" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_frm_identitas1.xml" value="0.25" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_frm_identitas2.xml" value="0.2" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_on_boarding.xml" value="0.25" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_register.xml" value="0.5" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/activity_welcome.xml" value="0.5" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/bot_reply.xml" value="0.67" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/fragment_akun.xml" value="0.19473684210526315" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/fragment_edit_akun.xml" value="0.25" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/fragment_panduan.xml" value="0.2" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/rowakun.xml" value="0.3951734539969834" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/roweditakun.xml" value="0.4453125" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/rowpanduan.xml" value="0.30714285714285716" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/rowpanduanheader.xml" value="0.25" />
         <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/slide_layout.xml" value="0.33" />
-        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/slides_layout.xml" value="0.22" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/slides_layout.xml" value="0.2" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/spinner_item.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/layout/user_holder.xml" value="0.67" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/menu/menu_navigation.xml" value="0.33" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/menu/menu_res.xml" value="0.33" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/MIM/AndroidStudioProjects/IsomanHealthCare/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -21,8 +21,8 @@ public class SplashScreen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         //menghilangkan ActionBar
-        requestWindowFeature(Window.FEATURE_NO_TITLE);
-        getSupportActionBar().hide();
+//        requestWindowFeature(Window.FEATURE_NO_TITLE);
+//        getSupportActionBar().hide();
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_splash_screen);
 
@@ -41,7 +41,7 @@ public class SplashScreen extends AppCompatActivity {
                     startActivity(new Intent(getApplicationContext(), OnBoarding.class));
                     finish();
                 } else {
-                    startActivity(new Intent(getApplicationContext(), MainActivity.class));
+                    startActivity(new Intent(getApplicationContext(), LoginActivity.class));
                     finish();
                 }
             }

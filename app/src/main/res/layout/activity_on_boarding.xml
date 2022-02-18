@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/hijau_army"
+    android:background="@color/teal_custom"
     android:padding="20dp"
     tools:context=".OnBoarding">
 
@@ -45,9 +45,9 @@
             android:layout_alignParentEnd="true"
             android:layout_marginEnd="0dp"
             android:background="@drawable/buttonbordershadow"
-            android:text="@string/let_get_started"
-            android:textColor="@color/hijau_army"
             android:onClick="mulaiBtn"
+            android:text="@string/let_get_started"
+            android:textColor="@color/teal_custom"
             android:visibility="invisible" />
 
         <LinearLayout
@@ -69,8 +69,8 @@
             android:background="#00000000"
             android:drawableEnd="@drawable/next_btn"
             android:drawableRight="@drawable/next_btn"
-            android:visibility="visible"
-            android:onClick="next"/>
+            android:onClick="next"
+            android:visibility="visible" />
     </RelativeLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

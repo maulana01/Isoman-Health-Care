@@ -1,19 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ContraintLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/hijau_army"
+    android:background="@color/teal_custom"
     tools:context=".MainActivity">
 
-    <TextView
-        android:id="@+id/textView"
+    <android.widget.Button
+        android:id="@+id/btnLogout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="153dp"
-        android:layout_marginBottom="338dp"
-        android:text="Hello World" />
-</RelativeLayout>
+        android:layout_marginTop="26dp"
+        android:layout_marginBottom="246dp"
+        android:background="@drawable/buttonbordershadow"
+        android:onClick="logoutBtn"
+        android:text="Logout"
+        android:visibility="invisible"
+        android:textColor="@color/teal_custom"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+        <androidx.coordinatorlayout.widget.CoordinatorLayout
+            android:id="@+id/coordinator"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:id="@+id/frameLayoutId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <com.google.android.material.bottomappbar.BottomAppBar
+                android:id="@+id/bottomAppBar"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_gravity="bottom"
+                app:fabCradleMargin="10dp"
+                app:fabCradleRoundedCornerRadius="10dp"
+                app:fabCradleVerticalOffset="10dp"
+                app:contentInsetStart="0dp"
+                app:contentInsetRight="0dp"
+                app:contentInsetEnd="0dp">
+
+                <com.google.android.material.bottomnavigation.BottomNavigationView
+                    android:id="@+id/bottomNavigationView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    app:labelVisibilityMode="unlabeled"
+                    app:menu="@menu/menu_navigation"
+                    android:paddingHorizontal="60dp">
+
+                </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+            </com.google.android.material.bottomappbar.BottomAppBar>
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab"
+                android:src="@drawable/ic_chatbot_nav2"
+                app:fabSize="auto"
+                app:maxImageSize="41dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:tint="@null"
+                app:backgroundTint="@android:color/transparent"
+                android:foregroundTint="@color/teal_custom"
+                android:outlineProvider="none"
+                app:borderWidth="0dp"
+                android:layout_gravity="bottom|center"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp" />
+
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
