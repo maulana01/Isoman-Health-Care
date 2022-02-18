@@ -230,6 +230,7 @@ public class PanduanFragment extends Fragment {
                 "Itulah 7 referensi belajar digital yang dapat diakses oleh semua orang yang bisa menjadi bahan belajar tambahan secara mandiri. Kamu juga bisa menggunakan kejarcita.id untuk mendapatkan bahan ajar digital.<br>"));
 
 //        getUser();
+//test
 
         String url = getString(R.string.api_server)+"/user";
         new Thread(new Runnable() {
